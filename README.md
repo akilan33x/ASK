@@ -55,7 +55,7 @@ plt.title('Decoded Bits')
 plt.tight_layout()
 plt.show()
 ```
-## FSK
+## FSK 
 ```
 import numpy as np
 import matplotlib.pyplot as plt
